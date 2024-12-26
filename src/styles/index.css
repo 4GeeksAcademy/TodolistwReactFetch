@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+li{
+    list-style: none;
+}
+input{
+    border: none;
+    border-bottom: 1px solid gray;
+    background-color: lightgray;
+}
+.card{
+    border: none;
+}
